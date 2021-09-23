@@ -1,5 +1,6 @@
 # funny-things
-Much more than a repository...
+Much more than a repository.
+============================
 
 I'm not from arround, but I'm allways arround. You'll see me roulling...
 
