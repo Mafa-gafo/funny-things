@@ -1,0 +1,2 @@
+# funny-things
+C++
