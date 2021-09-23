@@ -1,2 +1,2 @@
 # funny-things
-C++
+Much more than a repository...
